@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Plane
+comment1.params=newColor\ newSpeed\ newHasPassengerseats
+comment1.target=Plane(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=Plane()
+comment3.params=newColor
+comment3.target=void\ setColor(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=newSpeed
+comment5.target=void\ setSpeed(int)
+comment6.params=
+comment6.target=int\ getSpeed()
+comment7.params=newHasPassengerseats
+comment7.target=void\ setHasPassengerseats(boolean)
+comment8.params=
+comment8.target=boolean\ getHasPassengerseats()
+comment9.params=
+comment9.target=void\ print()
+numComments=10

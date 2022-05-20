@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Truck.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Truck()
+comment2.params=wheels\ payload\ trailer\ licencePlateNumber
+comment2.target=boolean\ check(int,\ double,\ boolean,\ java.lang.String)
+comment3.params=wheels\ payload\ trailer\ licencePlateNumber
+comment3.target=Truck(int,\ double,\ boolean,\ java.lang.String)
+comment4.params=wheels
+comment4.target=void\ setWheels(int)
+numComments=5

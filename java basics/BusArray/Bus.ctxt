@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=number
+comment1.target=Bus(java.lang.String)
+comment2.params=place\ p
+comment2.target=void\ setPassenger(int,\ Person)
+comment3.params=
+comment3.target=int\ getNumberOfPassengers()
+comment4.params=
+comment4.target=double\ getSumOfTickets()
+comment5.params=
+comment5.target=int\ getMaxAgeOfPassengers()
+comment6.params=
+comment6.target=void\ print()
+numComments=7

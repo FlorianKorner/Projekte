@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=
+comment1.target=Bus()
+comment10.params=enter
+comment10.target=int\ Enter(int)
+comment11.params=exit
+comment11.target=int\ Exit(int)
+comment12.params=
+comment12.target=void\ print()
+comment2.params=seats\ passengers\ registration
+comment2.target=Bus(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=boolean\ CheckConsistency()
+comment4.params=seats
+comment4.target=void\ setSeats(int)
+comment5.params=
+comment5.target=int\ getSeats()
+comment6.params=passengers
+comment6.target=void\ setPassengers(int)
+comment7.params=
+comment7.target=int\ getPassengers()
+comment8.params=registration
+comment8.target=void\ setRegistration(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getRegistration()
+numComments=13

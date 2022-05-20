@@ -1,0 +1,28 @@
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.exe
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.deps.json
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.runtimeconfig.json
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.runtimeconfig.dev.json
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.dll
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.pdb
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.csproj.AssemblyReference.cache
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.AssemblyInfoInputs.cache
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.AssemblyInfo.cs
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.csproj.CoreCompileInputs.cache
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.dll
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.pdb
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\Exercises\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.genruntimeconfig.cache
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.exe
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.deps.json
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.runtimeconfig.json
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.runtimeconfig.dev.json
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.dll
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\bin\Debug\netcoreapp3.1\ExCollection.pdb
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.csproj.AssemblyReference.cache
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.AssemblyInfoInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.AssemblyInfo.cs
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.csproj.CoreCompileInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.dll
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.pdb
+C:\Users\Florian\Desktop\3EHIF\POS\ExCollection\ExCollection\obj\Debug\netcoreapp3.1\ExCollection.genruntimeconfig.cache

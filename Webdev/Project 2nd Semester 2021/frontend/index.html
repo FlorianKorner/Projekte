@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href=""/>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+      integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/Project 2nd Semester 2021/frontend/css/mystyle.css">
+    <title>App | Playlist</title>
+    <script src="../Backend/js/search.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron text-center  bg-success" style="vertical-align: middle;">
+        <h1>  This Musik-Player will  
+              <i class="fas fa-play"style="color: #93faaf;"></i>
+              your  <img src="/Project 2nd Semester 2021/frontend/data/img/giphy1.gif" width="50">
+          </h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row container">
+        <div class="col">
+          <div class="container">
+          <div class="jumbotron text-center" style="background-color: #5cbf15;">
+              <div class="form-group">
+                <input
+                  type="text"
+                  class="form-control center"
+                  id="search-field"
+                  placeholder="search-field"
+                  name="search-field"
+                  required
+                />
+              
+              <a class="btn btn-block" onclick="showMusic()" 
+              style="display: flex; align-items: center; background-color: #80eb34;">
+              <i class="fas fa-search fa-2x " style="color: #76ab86;"></i></a>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div  id="content">
+        <div class="col">
+          <div class="embed-responsive embed-responsive-16by9">
+          <iframe  src="" frameborder="0" 
+          allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" >
+        </iframe>
+      </div>
+        </div>
+      </div>
+    </div>
+    <footer class="container-fluid p-5 text-white text-center mt-4">
+      <!-- 2 Column Layout -->
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="list-unstyled">
+            <li class="nav-item">
+              <a class="nav-link" href="insert.html">Add Data</a>
+            </li>
+            
+            <li class="nav-item">
+              <p>&copy; 2021</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

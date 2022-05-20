@@ -1,0 +1,12 @@
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\bin\Debug\net6.0\TeamsManager.Application.deps.json
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\bin\Debug\net6.0\TeamsManager.Application.dll
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\bin\Debug\net6.0\ref\TeamsManager.Application.dll
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\bin\Debug\net6.0\TeamsManager.Application.pdb
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.csproj.AssemblyReference.cache
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.AssemblyInfoInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.AssemblyInfo.cs
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.dll
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\ref\TeamsManager.Application.dll
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\TeamsManager\TeamsManager.Application\obj\Debug\net6.0\TeamsManager.Application.pdb

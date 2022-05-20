@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hexagon
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Hexagon.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Hexagon()
+comment2.params=S
+comment2.target=Hexagon(double)
+comment3.params=S
+comment3.target=void\ sets(double)
+numComments=4

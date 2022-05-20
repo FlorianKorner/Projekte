@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Strings
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Strings.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=size
+comment1.target=Strings(int)
+comment2.params=position\ value
+comment2.target=java.lang.String\ setElement(int,\ java.lang.String)
+comment3.params=position
+comment3.target=java.lang.String\ getElement(int)
+comment4.params=
+comment4.target=int\ number()
+comment5.params=
+comment5.target=int\ maxPosition()
+comment6.params=
+comment6.target=int\ minPosition()
+comment7.params=
+comment7.target=java.lang.String\ maxValue()
+comment8.params=
+comment8.target=java.lang.String\ minValue()
+comment9.params=v
+comment9.target=int\ contain(java.lang.String)
+numComments=10

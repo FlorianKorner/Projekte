@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TriangleABC
+comment1.params=newSidelengthA\ newSidelengthB\ newSidelengthC
+comment1.target=TriangleABC(double,\ double,\ double)
+comment10.params=
+comment10.target=double\ getBiggestSide()
+comment2.params=
+comment2.target=TriangleABC()
+comment3.params=newSidelengthA
+comment3.target=void\ setSidelengthA(double)
+comment4.params=
+comment4.target=double\ getSidelengthA()
+comment5.params=newSidelengthB
+comment5.target=void\ setSidelengthB(double)
+comment6.params=
+comment6.target=double\ getSidelengthB()
+comment7.params=newSidelengthC
+comment7.target=void\ setSidelengthC(double)
+comment8.params=
+comment8.target=double\ getSidelengthC()
+comment9.params=
+comment9.target=boolean\ isTriangle()
+numComments=11

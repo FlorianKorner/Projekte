@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Bus.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=passengers
+comment1.target=void\ setPassengers(int)
+comment10.params=number
+comment10.target=int\ exit(int)
+comment11.params=
+comment11.target=void\ printInfo()
+comment2.params=seats
+comment2.target=void\ setSeats(int)
+comment3.params=registration
+comment3.target=void\ setRegistration(java.lang.String)
+comment4.params=
+comment4.target=int\ getPassengers()
+comment5.params=
+comment5.target=int\ getSeats()
+comment6.params=
+comment6.target=java.lang.String\ getRegistration()
+comment7.params=
+comment7.target=Bus()
+comment8.params=passengers\ seats\ registration
+comment8.target=Bus(int,\ int,\ java.lang.String)
+comment9.params=number
+comment9.target=int\ enter(int)
+numComments=12

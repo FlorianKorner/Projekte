@@ -1,0 +1,36 @@
+body {
+  text-align: left;
+}
+div {
+  background-color: beige;
+  text-align: center;
+}
+footer {
+  text-decoration-color: black;
+}
+table {
+  table-layout: center;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin: 0;
+  margin-left: 35px;
+}
+tr:nth-child(even) {
+  background-color: gray;
+}
+
+th {
+  text-align: left;
+  padding: 8px;
+  padding-right: 40px;
+  background-color: dodgerblue;
+  border: 3px solid black;
+}
+td {
+  background-color: white;
+  padding: 8px;
+  border: 2px solid black;
+}
+* {
+  margin: 0;
+}

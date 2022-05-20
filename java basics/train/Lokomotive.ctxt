@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Lokomotive
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Lokomotive.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=weight\ power
+comment1.target=Lokomotive(double,\ double)
+comment2.params=
+comment2.target=Lokomotive()
+comment3.params=weight
+comment3.target=void\ setWeight(double)
+comment4.params=power
+comment4.target=void\ setPower(double)
+comment5.params=
+comment5.target=double\ getWeight()
+comment6.params=
+comment6.target=double\ getPower()
+comment7.params=
+comment7.target=void\ print()
+numComments=8

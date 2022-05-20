@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RegularHexagon
+comment1.params=
+comment1.target=RegularHexagon()
+comment2.params=newS
+comment2.target=RegularHexagon(double)
+comment3.params=newS
+comment3.target=void\ setS(double)
+comment4.params=
+comment4.target=double\ getS()
+comment5.params=
+comment5.target=double\ getHeightOfComponentTriangle()
+comment6.params=
+comment6.target=double\ getAreaOfComponentTriangle()
+comment7.params=
+comment7.target=double\ getCircumference()
+comment8.params=
+comment8.target=double\ getArea()
+comment9.params=
+comment9.target=void\ PrintInfo()
+numComments=10

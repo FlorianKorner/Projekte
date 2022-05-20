@@ -1,0 +1,15 @@
+{
+  "superheroes": [{
+    "name": "Batman",
+    "force": "nothing",
+    "universe": "dc"
+  }, {
+    "name": "Superman",
+    "force": ["fly", "bulletproof", "laser"],
+    "universe": "dc"
+  }, {
+    "name": "Hulk",
+    "force": ["super power", "gets green"],
+    "universe": "marvel"
+  }]
+}

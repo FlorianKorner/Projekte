@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Restaurante/src&apos;&#x0D;&#x0A;- Original project: &apos;CommunityCityCitymangement&apos;&#x0D;&#x0A;- Destination element: &apos;Restaurante/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     AllergyInfoItem.java&#x0D;&#x0A;     AllergyInfo.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Restaurante/src" element1="/src&lt;{AllergyInfoItem.java" element2="/src&lt;{AllergyInfo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1604566501282" units="2" version="1.0"/>
+</session>

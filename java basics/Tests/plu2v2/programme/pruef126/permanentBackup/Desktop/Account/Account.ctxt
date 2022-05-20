@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=newNumber\ newOwner\ newBalance
+comment1.target=Account(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=Account()
+numComments=3

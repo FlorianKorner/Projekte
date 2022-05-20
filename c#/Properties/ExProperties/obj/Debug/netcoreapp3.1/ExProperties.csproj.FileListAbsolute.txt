@@ -1,0 +1,14 @@
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\bin\Debug\netcoreapp3.1\ExProperties.exe
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\bin\Debug\netcoreapp3.1\ExProperties.deps.json
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\bin\Debug\netcoreapp3.1\ExProperties.runtimeconfig.json
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\bin\Debug\netcoreapp3.1\ExProperties.runtimeconfig.dev.json
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\bin\Debug\netcoreapp3.1\ExProperties.dll
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\bin\Debug\netcoreapp3.1\ExProperties.pdb
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.csproj.AssemblyReference.cache
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.AssemblyInfoInputs.cache
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.AssemblyInfo.cs
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.csproj.CoreCompileInputs.cache
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.dll
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.pdb
+C:\Users\Jeffh\Desktop\HTLSpengergasse\3EHIF\POS\Visual Studio\ExProperties\ExProperties\ExProperties\obj\Debug\netcoreapp3.1\ExProperties.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=busStop
+comment1.params=
+comment1.target=busStop()
+comment2.params=
+comment2.target=bus\ maxSeats()
+comment3.params=s
+comment3.target=int\ registrationStartsWith(java.lang.String)
+comment4.params=passengers
+comment4.target=int\ enter(int)
+comment5.params=position
+comment5.target=bus\ getBus(int)
+comment6.params=b
+comment6.target=boolean\ addBus(bus)
+comment7.params=b\ position
+comment7.target=boolean\ addBus(bus,\ int)
+comment8.params=
+comment8.target=bus\ removeBus()
+comment9.params=position
+comment9.target=bus\ removeBus(int)
+numComments=10

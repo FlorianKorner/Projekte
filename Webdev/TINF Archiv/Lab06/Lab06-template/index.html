@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <title>Lab - JS JSON | AJAX</title>
+    <link rel="stylesheet" type="text/css" href="css/mystyle.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="img/spengergasse-logo.png" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="js/app.js"></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="jumbotron text-center text-white bg-secondary">
+        <img width="50" src="img/avengers-logo.png" alt="Avengers" />
+        <h1>Lab - JSON | AJAX</h1>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="form-group">
+            <label for="select-avengers">Select your Avenger:</label>
+            <select
+              class="form-control"
+              id="select-avengers"
+              name="selectlist-avengers"
+            >
+            </select>
+          </div>
+          <button class="btn btn-primary" id="btn-show-details">
+            Show Details
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <br />
+
+    <div class="container" id="container-details">
+      <div class="row">
+        <div class="col">
+          <div class="card text-center">
+            <div id="card-body-img" class="card-body">
+              <img
+                id="card-img-avenger"
+                src="img/avengers-logo.png"
+                alt="Avengers"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

@@ -1,0 +1,18 @@
+body{
+    font-family: 'Bangers', cursive;;
+}
+h2{
+    color:rgba(240, 38, 38,1);
+}
+img,video{
+    border: 5px dotted rgba(177, 39, 177,1);
+}
+p{
+    background-color: rgba(187, 165, 165,1.0);
+    margin:50px;
+    padding:30px;
+}
+span{
+    border: red 2px dotted;
+    background-color: rgba(240, 255, 32, 0.911);
+}

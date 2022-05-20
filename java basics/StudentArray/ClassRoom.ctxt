@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ClassRoom
+comment0.text=\r\n\ class\ ClassRoom\:\ contains\ an\ array\ of\ students\ \=\=\ seats\ in\ the\ class\ room\r\n\ \ \ \ \ seats\ may\ be\ empty\ \=\=\ seat[pos]\ is\ null\r\n\r\n\ @author\ Andreas\ Schenk\r\n\ @version\ 2020-06-08\r\n
+comment1.params=size
+comment1.target=ClassRoom(int)
+comment2.params=
+comment2.target=ClassRoom()
+numComments=3

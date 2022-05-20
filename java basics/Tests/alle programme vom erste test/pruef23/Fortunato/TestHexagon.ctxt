@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestHexagon
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ TestHexagon.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=TestHexagon()
+comment2.params=y
+comment2.target=int\ beispielMethode(int)
+numComments=3

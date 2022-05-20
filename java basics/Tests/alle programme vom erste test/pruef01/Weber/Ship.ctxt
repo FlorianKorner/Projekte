@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=newName\ newSpeed\ newNumberOfMasts\ newHasGuns
+comment1.target=Ship(java.lang.String,\ double,\ int,\ boolean)
+comment10.params=
+comment10.target=double\ getSpeedup()
+comment11.params=
+comment11.target=double\ getSlowdown()
+comment12.params=
+comment12.target=void\ print()
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=newSpeed
+comment3.target=void\ setSpeed(double)
+comment4.params=newNumberOfMasts
+comment4.target=void\ setNumberOfMasts(int)
+comment5.params=newHasGuns
+comment5.target=void\ setHasGuns(boolean)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=double\ getSpeed()
+comment8.params=
+comment8.target=int\ getNumberOfMasts()
+comment9.params=
+comment9.target=boolean\ getHasGuns()
+numComments=13

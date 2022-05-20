@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WineCask
+comment0.text=\r\n\ it\ is\ there\ for\ storing\ wine\r\n\ and\ getting\ drunk\r\n\ made\ by\ @Florian\ K\u00F6rner\r\n
+comment1.params=newCapacity
+comment1.target=void\ setCapacity(double)
+comment2.params=
+comment2.target=double\ getCapacity()
+comment3.params=newContent
+comment3.target=void\ setContent(double)
+comment4.params=
+comment4.target=double\ getContent()
+numComments=5

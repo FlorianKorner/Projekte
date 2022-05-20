@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=testShip
+comment1.params=speed\ numberOfMasts\ hasGuns\ name
+comment1.target=void\ testShip(double,\ int,\ boolean,\ java.lang.String)
+comment2.params=speed\ numberOfMasts\ hasGuns\ name
+comment2.target=void\ newTestShip(double,\ int,\ boolean,\ java.lang.String)
+comment3.params=newSpeed\ speed
+comment3.target=void\ decreaseSpeed(double,\ double)
+comment4.params=newSpeed\ speed
+comment4.target=void\ increaseSpeed(double,\ double)
+numComments=5

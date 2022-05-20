@@ -1,0 +1,5 @@
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\SLÜ1 übung\RegistrationSystem.Application\obj\Debug\net5.0\RegistrationSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\SLÜ1 übung\RegistrationSystem.Application\obj\Debug\net5.0\RegistrationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\SLÜ1 übung\RegistrationSystem.Application\obj\Debug\net5.0\RegistrationSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\SLÜ1 übung\RegistrationSystem.Application\obj\Debug\net5.0\RegistrationSystem.Application.AssemblyInfo.cs
+C:\Users\Florian\Desktop\3EHIF\POS\tasks\SLÜ1 übung\RegistrationSystem.Application\obj\Debug\net5.0\RegistrationSystem.Application.csproj.CoreCompileInputs.cache

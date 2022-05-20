@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GeomObjCal
+comment1.params=a\ b
+comment1.target=double\ add(double,\ double)
+comment10.params=radius\ height
+comment10.target=double\ calcSurfaceAreaOfCylinder(double,\ double)
+comment11.params=radius\ height
+comment11.target=double\ calcVolumeOfCylinder(double,\ double)
+comment2.params=a\ b
+comment2.target=double\ multiply(double,\ double)
+comment3.params=length\ width
+comment3.target=double\ calcAreaOfRectangle(double,\ double)
+comment4.params=lengthA\ widthB\ heightC
+comment4.target=double\ calcSurfaceAreaOfCuboid(double,\ double,\ double)
+comment5.params=length
+comment5.target=double\ calcSurfaceAreaOfCube(double)
+comment6.params=length\ width\ height
+comment6.target=double\ calcVolumeOfCuboid(double,\ double,\ double)
+comment7.params=length
+comment7.target=double\ calcVolumeOfCube(double)
+comment8.params=radius
+comment8.target=double\ calcCircumferenceOfCircle(double)
+comment9.params=radius
+comment9.target=double\ calcAreaOfCircle(double)
+numComments=12

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane fx:id="borderPane" prefHeight="602.0" prefWidth="891.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <top>
+      <MenuBar fx:id="menuBar" BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Brushes">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#superThinBrush" text="super thin" />
+                  <MenuItem mnemonicParsing="false" onAction="#thinBrush" text="thin" />
+                  <MenuItem mnemonicParsing="false" onAction="#thickBrush" text="thick" />
+                  <MenuItem mnemonicParsing="false" onAction="#superThickBrush" text="superthick" />
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false" onAction="#chooseDrawingColor">
+               <graphic>
+                  <ColorPicker fx:id="colorPicker" onMouseClicked="#chooseDrawingColor" onMouseDragged="#chooseDrawingColor" />
+               </graphic>
+            </Menu>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#saveAsPng" text="save as png" />
+                  <MenuItem mnemonicParsing="false" onAction="#openPictureAsCanvas" text="open picture as canvas" />
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false">
+               <graphic>
+                  <ColorPicker fx:id="colorPicker1" />
+               </graphic>
+            </Menu>
+            <Menu mnemonicParsing="false" text="shapes">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#drawBox" text="box" />
+                  <MenuItem mnemonicParsing="false" onAction="#drawOval" text="oval" />
+                  <MenuItem mnemonicParsing="false" onAction="#drawCircle" text="circle" />
+               </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <Canvas fx:id="canvas" height="576.0" width="900.0" BorderPane.alignment="CENTER_LEFT" />
+   </center>
+</BorderPane>

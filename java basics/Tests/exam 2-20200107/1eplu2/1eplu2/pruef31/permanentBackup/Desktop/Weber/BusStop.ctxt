@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BusStop
+comment1.params=
+comment1.target=BusStop()
+comment2.params=
+comment2.target=Bus\ maxSeats()
+comment3.params=passengers
+comment3.target=int\ enter(int)
+comment3.text=\r\n\ \ \ \ public\ int\ registrationStartsWith(String\ s)\r\n\ \ \ \ {\r\n\ \ \ \ s\=Bus.startsWith();\r\n\ \ \ \ }\r\n
+numComments=4

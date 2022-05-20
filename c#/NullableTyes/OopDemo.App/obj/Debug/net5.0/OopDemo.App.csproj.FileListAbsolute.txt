@@ -1,0 +1,16 @@
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\OopDemo.App.exe
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\OopDemo.App.deps.json
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\OopDemo.App.runtimeconfig.json
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\OopDemo.App.runtimeconfig.dev.json
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\OopDemo.App.dll
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\ref\OopDemo.App.dll
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\bin\Debug\net5.0\OopDemo.App.pdb
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.csproj.AssemblyReference.cache
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.AssemblyInfoInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.AssemblyInfo.cs
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.csproj.CoreCompileInputs.cache
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.dll
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\ref\OopDemo.App.dll
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.pdb
+C:\Users\Florian\Desktop\3EHIF\POS\OopDemo\OopDemo.App\obj\Debug\net5.0\OopDemo.App.genruntimeconfig.cache
