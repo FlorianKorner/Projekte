@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WineCellar
+comment1.params=
+comment1.target=WineCellar()
+comment2.params=
+comment2.target=double\ getContent()
+comment3.params=
+comment3.target=double\ getCapacity()
+comment4.params=
+comment4.target=double\ fill()
+numComments=5

@@ -1,0 +1,24 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 150px; /* Margin bottom by footer height */
+}
+
+/* Sticky footer */
+/* https://getbootstrap.com/docs/4.0/examples/sticky-footer/ */
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 150px;
+}
+
+.bg-color {
+  background-color: tomato;
+}

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StudentList
+comment0.text=\r\n\ class\ StudentList\:\ a\ list\ of\ students\r\n\ \ \ \ \ list\ item\ may\ not\ be\ null\r\n\ \ \ \ \ freePos\ is\ the\ first\ empty\ position\ in\ the\ list\r\n\ \ \ \ \ \ \ initially\ 0,\ has\ to\ be\ checked\ and\ updated\ with\ every\ insert/delete\ method\r\n\r\n\ @author\ Andreas\ Schenk\r\n\ @version\ 2020-06-08\r\n
+comment1.params=size
+comment1.target=StudentList(int)
+comment2.params=
+comment2.target=StudentList()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WineCask3
+comment1.params=content\ capacity
+comment1.target=WineCask3(double,\ double)
+comment2.params=content\ capacity
+comment2.target=boolean\ checkConsistency(double,\ double)
+comment3.params=content
+comment3.target=void\ setContent(double)
+comment4.params=capacity
+comment4.target=void\ setCapacity(double)
+numComments=5

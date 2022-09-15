@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=Counter()
+comment2.params=
+comment2.target=void\ countLetters()
+comment3.params=
+comment3.target=void\ print()
+numComments=4

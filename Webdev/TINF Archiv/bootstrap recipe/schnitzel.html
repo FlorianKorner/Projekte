@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe</title>
+    <!-- Latest compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+      integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
+      crossorigin="anonymous"
+    />
+
+    <!-- our own css file -->
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Area Navbar -->
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+      <!-- Brand -->
+      <a class="navbar-brand" href="index.html"><i class="fas fa-home"></i></a>
+
+      <!-- Toggler/collapsibe Button -->
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#collapsibleNavbar"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Navbar links -->
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#top-3-recipes">Top 3 Recipes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="schnitzel.html">Schnitzel</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="lasagne.html">Lasagne</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Area HEADER -->
+    <header class="container-fluid p-5 bg-success text-white text-center">
+      <h1>Recipe</h1>
+      <p>My favorite recipes</p>
+    </header>
+
+    <!-- Area Main -->
+    <main class="container">
+      <!-- Part 1: Carousel -->
+      <div class="container mb-4">
+        <div class="row justify-content-md-center">
+          <!-- to move the col into the center of the page -->
+          <!-- Option 1: col-md-4 offset-md-4 -> moves the col 4 spans to the right -->
+          <!-- Option 2: justify-content-md-center -->
+
+          <div class="col-md-6">
+            <h3 class="text-center">Wiener Schnitzel</h3>
+            <div id="demo" class="carousel slide" data-ride="carousel">
+              <!-- Indicators -->
+              <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <li data-target="#demo" data-slide-to="1"></li>
+                <li data-target="#demo" data-slide-to="2"></li>
+              </ul>
+
+              <!-- The slideshow -->
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="imgs/schnitzel-2.jpg" alt="Schnitzel 2" />
+                </div>
+                <div class="carousel-item">
+                  <img src="imgs/schnitzel-3.jpg" alt="Schnitzel 3" />
+                </div>
+                <div class="carousel-item">
+                  <img src="imgs/schnitzel-1.jpg" alt="Schnitzel 1" />
+                </div>
+              </div>
+
+              <!-- Left and right controls -->
+              <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+              </a>
+              <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Part2: Zutaten und Zubereitung -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h4>Zutaten für 4 Portionen</h4>
+            <table class="table table-striped">
+              <tr>
+                <th>Menge</th>
+                <th>Einheit</th>
+                <th>Zutat</th>
+              </tr>
+              <tr>
+                <td>400</td>
+                <td>g</td>
+                <td>Kalbsschnitzel aus der Oberschale</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Stk</td>
+                <td>Eier</td>
+              </tr>
+              <tr>
+                <td>50</td>
+                <td>ml</td>
+                <td>Sahne</td>
+              </tr>
+              <tr>
+                <td>nach Beliben</td>
+                <td></td>
+                <td>Semmelbrösel</td>
+              </tr>
+              <tr>
+                <td>nach Beliben</td>
+                <td></td>
+                <td>Mehl</td>
+              </tr>
+              <tr>
+                <td></td>
+                <td></td>
+                <td>Salz und Pfeffer</td>
+              </tr>
+              <tr>
+                <td>viel</td>
+                <td></td>
+                <td>Öl zum Braten</td>
+              </tr>
+            </table>
+          </div>
+          <div class="col-md-6">
+            <h4>Zubereitung</h4>
+            <ol>
+              <li>
+                Das Fleisch mit Gefrierbeuteln einwickeln und mit einem flachen
+                Gegenstand platt klopfen, bis es dünn und flach ist. Dafür könnt
+                Ihr ein Plätteisen, zur Not aber auch eine Pfanne oder etwas
+                Ähnliches benutzen.
+              </li>
+              <li>
+                Wenn das Fleisch fertig präpariert ist, kann man sich am besten
+                eine Panierstraße aufbauen. Dafür drei große und flache Gefäße
+                nebeneinander positionieren. In das erste Gefäß kommt die
+                Mehlmischung, in das zweite Gefäß die Eimischung und in das
+                dritte Gefäß die Paniermehlmischung.
+              </li>
+              <li>
+                Das Mehl im ersten Gefäß mit Salz und Pfeffer vermengen. Zu den
+                Eiern in der zweiten Schale kommt noch die Sahne. Beides mit
+                einem Schneebesen verquirlen. Im dritten Gefäß finden die
+                Semmelbrösel ihren Platz.
+              </li>
+              <li>
+                Mit dem Mehl starten. Das Fleisch von beiden Seiten gut
+                melieren. Anschließend das Fleisch in die Eiermischung tauchen.
+                Als Letztes kommt das Fleisch in die Schale mit den
+                Semmelbröseln. Gut bedecken, damit keine Stelle vom Fleisch frei
+                bleibt!
+              </li>
+              <li>
+                Das Öl in den Pfannen erhitzen. Beim Schnitzel backen muss die
+                Temperatur des Öls gleichmäßig hoch bleiben. Da es abkühlt, wenn
+                das Schnitzel eingetaucht wird, benutzen Profis immer zwei
+                Pfannen. Zuerst kommt das Fleisch für circa eine Minute in die
+                erste Pfanne. Anschließend dann mit der anderen Seite nach unten
+                in die zweite Pfanne. In der Zwischenzeit hat dann das Öl in der
+                jeweils anderen Pfanne die Chance, wieder heiß zu werden.
+                <p></p>
+                Damit die Panade besonders fluffig bleibt, zuletzt die Pfanne
+                ein bisschen schütteln, damit das Fett über dem Schnitzel ist.
+                <p></p>
+                Dazu passen Kartoffeln und auch Gurkensalat.
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Area Footer -->
+    <footer class="container-fluid p-5 bg-success text-white text-center mt-4">
+      <!-- 2 Column Layout -->
+      <div class="row">
+        <div class="col-md-6">
+          <p>&copy; 2EHIF 2020</p>
+        </div>
+        <div class="col-md-6">
+          <ul class="list-unstyled">
+            <li>Contact</li>
+            <li>Impressum</li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

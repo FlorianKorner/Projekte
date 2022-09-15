@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SimpleImage()
+comment1.params=width\ height
+comment1.target=SimpleImage(int,\ int)
+comment2.params=g
+comment2.target=void\ paintComponent(Graphics)
+comment3.target=int\ getWidth()
+comment4.target=int\ getHeight()
+comment5.params=column\ row\ r\ g\ b
+comment5.target=void\ setRGB(int,\ int,\ int,\ int,\ int)
+comment6.target=void\ save()
+comment7.params=fileName
+comment7.target=void\ saveAs(String)
+numComments=8

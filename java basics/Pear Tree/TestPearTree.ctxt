@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestPearTree
+comment0.text=\r\n\ tis\ class\ tests\ the\ funktionality\ of\ the\ "PearTree"\r\n\ \r\n\ @author\ Florian\ K\u00F6rner\ \r\n\ @Date\ 19.11.2019\r\n
+comment1.params=
+comment1.target=void\ TestPearTree()
+comment1.text=\r\n\ Tests\ the\ PearTree\r\n
+numComments=2

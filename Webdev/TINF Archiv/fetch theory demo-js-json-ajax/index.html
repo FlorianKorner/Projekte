@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <title>JS JSON | AJAX | Fetch</title>
+    <link rel="stylesheet" type="text/css" href="css/mystyle.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="img/spengergasse-logo.png" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="js/demo.js"></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="jumbotron text-center text-white bg-danger">
+        <h1>JavaScript | JSON | AJAX | Fetch</h1>
+        <h3>Activate the webdeveloper tools in the browser (Console)</h3>
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Some text from file - AJAX - load | get</h2>
+      <div class="row">
+        <div class="col">
+          <div class="card">
+            <div class="card-body">No data</div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div class="row">
+        <div class="col">
+          <div>
+            <button class="btn btn-dark" id="btn-load-txt">
+              Load content from file (load)
+            </button>
+          </div>
+        </div>
+        <div class="col">
+          <div>
+            <button class="btn btn-dark" id="btn-get-txt">
+              Load content from file (get)
+            </button>
+          </div>
+        </div>
+        <div class="col">
+          <div>
+            <button class="btn btn-dark" id="btn-ajax-txt">
+              Load content from file (ajax)
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr />
+
+    <div class="container">
+      <h2>JSON from file - AJAX - get | getJSON</h2>
+      <table class="table table-dark table-striped" id="table-json-from-file">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Force</th>
+            <th>Universe</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-file">
+          <!-- from file-->
+        </tbody>
+      </table>
+    </div>
+
+    <hr />
+
+    <div class="container">
+      <h2>JSON from file - fetch</h2>
+      <table
+        class="table table-dark table-striped"
+        id="table-json-from-file-fetch"
+      >
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Force</th>
+            <th>Universe</th>
+          </tr>
+        </thead>
+        <tbody id="tbody-file-fetch">
+          <!-- from file-->
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>

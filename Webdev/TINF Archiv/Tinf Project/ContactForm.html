@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>http://leims-holzwerkstatt.at/leim.html</title>
+    <!-- Latest compiled and  CSS -->
+    <link
+      rel="stylesheet"
+      minified
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- fontawsome stylesheet import -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+      integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
+      crossorigin="anonymous"
+    />
+
+    <!-- Googlefonts import -->
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+
+    <!-- mystyle.css implementation -->
+    <link rel="stylesheet" href="css/mystyle.css" />
+    
+  </head>
+  <body>
+    <!-- Area Navbar -->
+
+    <nav class="navbar navbar-expand-md sticky-top">
+      <!-- Brand -->
+      <button
+        class="navbar-toggler"
+        data-toggle="collapse"
+        data-target="#collapse_target"
+      >
+        <span class="icon-bar"><i class="fas fa-align-justify" style="font-size: 32px;color:rgb(189, 174, 143)"></i></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapse_target">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="navbar-brand" href="homescreen.html">
+              <i class="fas fa-home"></i> Home
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="navbar-brand" href="#">
+              <i class="material-icons">contacts</i> Kontakt
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="navbar-brand" href="Galerie.html">
+              <i class="fas fa-camera"></i> Galerie
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="navbar-brand" href="Anfahrt.html">
+              <i class="fas fa-car"></i> Anfahrt
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Toggler/collapsibe Button -->
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#collapsibleNavbar"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Navbar links -->
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav"></ul>
+      </div>
+    </nav>
+
+    <!-- Area HEADER -->
+    <header
+      class="container-fluid p-5 text-dark bg-primary text-center"
+    ></header>
+    <!--actual page Body-->
+    <div>
+      <div class="container">
+        <form>
+          <div class="col-sm-6">
+            <div class="form-group">
+              <!-- <label for="firstname">Firstname:</label> -->
+              <input
+                type="text"
+                class="form-control"
+                id="firstname"
+                placeholder="Vorname"
+                name="firstname"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <!-- <label for="lastname">Lastname:</label> -->
+              <input
+                type="text"
+                class="form-control"
+                id="lastname"
+                placeholder="Nachname"
+                name="lastname"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <!-- <label for="email">Email:</label> -->
+              <input
+                type="email"
+                class="form-control"
+                id="email"
+                placeholder="Emailadresse"
+                name="email"
+                required
+              />
+            </div>
+            <div class="form-group form-check">
+              <label class="form-check-label">
+                <input type="checkbox" class="form-check-input" value="" required/>
+                <p class="small">
+                  Mit Anklicken der Checkbox stimme ich zu dass die angegebenen
+                  Daten und meine IP Adresse zum Zweck der Kontaktaufnahme mit
+                  Herren Österreicher (->Inhaber von "Leim´s kreativ
+                  Holzwerkstatt") verwendet werden.
+                </p>
+              </label>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary">Kontaktieren</button>
+        </form>
+      </div>
+    </div>
+
+    <!-- Area Footer -->
+    <footer class="container-fluid p-5 text-white text-center mt-4">
+      <!-- 2 Column Layout -->
+      <div class="row">
+        <div class="col-md-12">
+          <ul class="list-unstyled">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Kontakt</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Impressum.html">Impressum</a>
+            </li>
+            <li class="nav-item">
+              <p>&copy; 2020</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

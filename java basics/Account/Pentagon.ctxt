@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Pentagon
+comment1.params=
+comment1.target=Pentagon()
+comment10.params=
+comment10.target=double\ getArea()
+comment11.params=
+comment11.target=void\ print()
+comment2.params=newRadius
+comment2.target=Pentagon(double)
+comment3.params=newRadius
+comment3.target=void\ setRadius(double)
+comment4.params=
+comment4.target=double\ getRadius()
+comment5.params=
+comment5.target=double\ getSideLengthOfComponentTriangle()
+comment6.params=
+comment6.target=double\ getBaseLengthOfComponentTriangle()
+comment7.params=
+comment7.target=double\ getHeightOfComponentTriangle()
+comment8.params=
+comment8.target=double\ getAreaOfComponentTriangle()
+comment9.params=
+comment9.target=double\ getCircumference()
+numComments=12

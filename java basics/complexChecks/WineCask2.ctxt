@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WineCask2
+comment1.params=content\ capacity
+comment1.target=WineCask2(double,\ double)
+comment2.params=content
+comment2.target=void\ setContent(double)
+comment3.params=capacity
+comment3.target=void\ setCapacity(double)
+numComments=4

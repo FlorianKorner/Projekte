@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    h1{
+        text-align: center;
+        border: 3px dotted;
+        border-radius: 10px;
+        font-family: 'Arcitects new Roman', cursive; 
+        }
+        h3{
+            color: tomato;
+        }
+        img{
+            border: 1px solid;
+            padding: 10px 5xp 30px 100px;
+            padding-top: 10px;
+            padding-right: 5px;
+            padding-bottom: 30px;
+            padding-left: 100px;
+            padding: 20px;
+        }
+}

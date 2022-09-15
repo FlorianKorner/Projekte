@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+    color: #464646;
+
+}
+header{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+    margin-top: 0px;
+}
+.navbar{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+    align-items: center;
+    margin-bottom: 20px;
+}
+footer{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+} 
+
+h2{
+    text-size-adjust: 10px;
+    padding-left: 10px;
+    color: #464646;
+    text-decoration: underline;
+}
+h1{
+    padding-left: 10px;
+    color: #464646;
+    text-decoration: underline;
+}
+
+p{
+    margin-bottom: 0px;
+    margin-left: 20px;
+    color: #464646;
+}
+
+p1{
+    color: transparent;
+}
+
+p100{
+    color: #464646;
+}

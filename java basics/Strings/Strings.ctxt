@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Strings
+comment1.params=s\ t
+comment1.target=boolean\ equals(java.lang.String,\ java.lang.String)
+comment2.params=s\ beginIndex\ endIndex
+comment2.target=java.lang.String\ subStringMe(java.lang.String,\ int,\ int)
+comment3.params=s\ t
+comment3.target=int\ indexOf(java.lang.String,\ java.lang.String)
+comment4.params=s\ t
+comment4.target=boolean\ contanis(java.lang.String,\ java.lang.String)
+numComments=5

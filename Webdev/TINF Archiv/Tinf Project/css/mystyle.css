@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+    color: #464646;
+    font-family: 'Dancing Script', cursive;
+}
+header{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+}
+.navbar{
+    background: linear-gradient(to right, #ffeb78, #d6a400);
+    align-items: center;
+    font-family: 'Dancing Script', cursive;
+}
+footer{
+    background-color: #ce9f05;
+    text-align: center;
+} 
+
+.p1{
+    text-align: right;
+    padding: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+img{
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-left: 100px;
+}
+h2{
+    size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    padding-left: 10px;
+    font-family: 'Dancing Script', cursive;
+}
+.text-center{
+    text-align: center;
+    color: #464646;
+}
+.row{
+    font-family: 'Dancing Script', cursive;
+}
+.columb{
+    /* 
+    */
+    columns: initial;
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    margin-bottom: 0px;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 100px;
+}
+p1{
+    color: transparent;
+    
+}
+p100{
+    color: #464646;
+}
+p200{
+    margin-bottom: 0px;
+    font-family: 'Dancing Script', cursive; 
+}

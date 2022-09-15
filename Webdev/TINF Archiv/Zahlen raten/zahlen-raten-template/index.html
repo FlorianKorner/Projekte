@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Zahlen raten</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+      integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="js/app.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <div class="jumbotron text-center bg-danger text-white">
+          <h1>Zahlen raten</h1>
+          <i class="fas fa-gamepad fa-3x"></i>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div id="row-input-guess" class="row margin-bottom-20px">
+        <div class="col">
+          <form class="form-inline">
+            <label for="input-guess-number" class="mr-sm-2">Deine Zahl:</label>
+            <input
+              type="text"
+              class="form-control mb-2 mr-sm-2"
+              id="input-guess-number"
+            />
+            <input type="hidden" id="hidden-number" value="0" />
+            <button onclick="guess()"
+              type="button"
+              id="btn-check"
+              class="btn btn-dark mb-2"
+            >
+              Check
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div id="row-card-guess" class="row margin-bottom-20px">
+        <div class="col">
+          <div class="card text-center">
+            <!-- fa-poo fa-smile -->
+            <div class="card-header">
+              <i id="card-header-icon" class="fas fa-2x"></i>
+            </div>
+            <div id="card-body-text" class="card-body">
+              Drücke Check um zu raten
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

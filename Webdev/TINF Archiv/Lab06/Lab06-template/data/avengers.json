@@ -1,0 +1,15 @@
+{
+  "avengers": [{
+    "name": "-",
+    "image": "avengers-logo.png"
+  }, {
+    "name": "Hulk",
+    "image": "Hulk.png"
+  }, {
+    "name": "Iron Man",
+    "image": "Iron-Man.png"
+  }, {
+    "name": "Thor",
+    "image": "Thor.png"
+  }]
+}
